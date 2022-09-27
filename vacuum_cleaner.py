@@ -10,7 +10,7 @@ class Square:
 def generate_random():
     return random.randint(0, 100)/100
 
-    # Function calculate_cost() accepts R, CS, CM, P, Q
+# Function calculate_cost() accepts R, CS, CM, P, Q
 def calculate_cost(r, cs, cm, p, q):
     A = Square()
     B = Square()
